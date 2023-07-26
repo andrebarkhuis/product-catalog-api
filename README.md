@@ -16,7 +16,6 @@ Objective Evaluate comprehensive technical expertise in software development, Ku
 ### **Part 2: Coding Task**
 
 **1. Database Interaction**  
-   - Design a database schema for the `Product` entity.
    - Implement ORM integration (e.g., Entity Framework) to connect the API to the database.
    - Use the default InMemory DB for entity framework
 
